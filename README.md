@@ -1,6 +1,8 @@
 # Weather-Station-with-MicroPython-and-LCD-2X16
 Weather Station with usage of api and temperature sensor, which shows information on little LCD 2X16
 
+Based on: Arda Kılıçdağı project: https://gist.github.com/Ardakilic/5717692
+
 
 Here is a circuit to let you easier understand project implementations:
 
